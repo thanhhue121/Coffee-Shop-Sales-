@@ -21,4 +21,8 @@ This project analyzes **raw transactional data** from a coffee shop system using
 📌 **Do weekends bring more sales than weekdays?**  
 📌 **Which hours of the day see peak sales?** ⏰  
 
+## 📈📉 Visualization 
+- Connect MySQL with PowerBI through ODBC
+- Create insightful charts based on key metrics above
+
 ## 📂 Check out the full SQL script in this repository! 🛠️  
