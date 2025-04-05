@@ -24,6 +24,7 @@ This project analyzes **raw transactional data** from a coffee shop system using
 ## 📈📉 Visualization 
 - Connect MySQL with PowerBI through ODBC
 - Create insightful charts based on key metrics above
+  
 ![Dashboard - Quick View](https://github.com/thanhhue121/Coffee-Shop-Sales-/blob/main/Dashboard%20-%20Quick%20View.jpg?raw=true)
 
 ## 📂 Check out the full SQL script in this repository! 🛠️  
